@@ -8,7 +8,7 @@ message2=" Goodbye"
 print(message2)
 
 
-#Cncertinating variable (Joining two or more output of a variable together)
+#C0ncertinating variable (Joining two or more output of a variable together)
 message3= message + message2
 print(message3)
 
